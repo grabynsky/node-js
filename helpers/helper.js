@@ -1,4 +1,4 @@
-//
+
 // const http = require('node: http')
 //
 // const createServerLocalhost = () => {
@@ -14,3 +14,9 @@
 // module.exports = {
 //     createServerLocalhost,
 // }
+
+// const foo =()=> {
+//     console.log(222222222222)
+// }
+//
+// foo()
